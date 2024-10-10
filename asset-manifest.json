@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webtech_group4/static/css/main.408577ce.css",
+    "main.js": "/webtech_group4/static/js/main.32fda2aa.js",
+    "static/js/453.0c17c40c.chunk.js": "/webtech_group4/static/js/453.0c17c40c.chunk.js",
+    "index.html": "/webtech_group4/index.html",
+    "main.408577ce.css.map": "/webtech_group4/static/css/main.408577ce.css.map",
+    "main.32fda2aa.js.map": "/webtech_group4/static/js/main.32fda2aa.js.map",
+    "453.0c17c40c.chunk.js.map": "/webtech_group4/static/js/453.0c17c40c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.408577ce.css",
+    "static/js/main.32fda2aa.js"
+  ]
+}
